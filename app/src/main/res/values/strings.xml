@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notification App</string>
+    <string name="get_random_notifications">Get Random Notifications</string>
+</resources>
